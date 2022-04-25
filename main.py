@@ -1,7 +1,7 @@
 from plyer import *
 import time
 
-# print(60*60*4)
+#this program shows a notification on desktop after very 4 hours.
 if __name__ == '__main__':
     while True:
         notification.notify (
